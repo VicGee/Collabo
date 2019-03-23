@@ -1,2 +1,2 @@
-# MyWeb
+# Collabo
 The most dynamic website
